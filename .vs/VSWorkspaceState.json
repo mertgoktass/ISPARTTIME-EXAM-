@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FinalExam.Dal\\Interfaces",
+    "\\FinalExam.Domain\\Models",
+    "\\FinalExam.Service\\Automapper",
+    "\\FinalExam.Service\\Dtos",
+    "\\FinalExam.Service\\Services",
+    "\\FinalExam.Test\\Repository"
+  ],
+  "SelectedNode": "\\FinalExam.Api",
+  "PreviewInSolutionExplorer": false
+}

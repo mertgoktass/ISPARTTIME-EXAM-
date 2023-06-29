@@ -1,0 +1,24 @@
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.deps.json
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.pdb
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\refint\FinalExam.Domain.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.pdb
+C:\Users\PC\source\repos\FinalExam\FinalExam.Domain\obj\Debug\net6.0\ref\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.deps.json
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\bin\Debug\net6.0\ref\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\bin\Debug\net6.0\FinalExam.Domain.pdb
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\ref\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Domain\obj\Debug\net6.0\FinalExam.Domain.pdb

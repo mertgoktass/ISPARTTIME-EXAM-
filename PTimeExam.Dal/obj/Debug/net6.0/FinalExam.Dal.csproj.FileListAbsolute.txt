@@ -1,0 +1,34 @@
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.deps.json
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.runtimeconfig.json
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.pdb
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Domain.pdb
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.AssemblyInfo.cs
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.CopyComplete
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\refint\FinalExam.Dal.dll
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.pdb
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.genruntimeconfig.cache
+C:\Users\PC\source\repos\FinalExam\FinalExam.Dal\obj\Debug\net6.0\ref\FinalExam.Dal.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.deps.json
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\ref\FinalExam.Dal.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Dal.pdb
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Domain.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\bin\Debug\net6.0\FinalExam.Domain.pdb
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\ref\FinalExam.Dal.dll
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.pdb
+C:\Users\Lenovo\Desktop\MARIOS EXAM\question related to company,employee etc\Makeup\FinalExam\FinalExam.Dal\obj\Debug\net6.0\FinalExam.Dal.genruntimeconfig.cache
